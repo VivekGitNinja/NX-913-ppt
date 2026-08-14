@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Local preview / tooling state
+.freebuff/
+desktop-v2.db
+desktop-v2.db-shm
+
+# OS noise
+.DS_Store
