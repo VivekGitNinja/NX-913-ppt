@@ -32,3 +32,7 @@ The generator parses each slide's title/subtitle/notes directly from `index.html
 ## Design
 
 Brand identity matched to [nx-913.com](https://nx-913.com): `#050505` black background, brand red `#dc2626` / `#ef4444` accents, gold highlights, **Chakra Petch** (headings) + **Rajdhani** (body) typography.
+
+## Author
+
+**VIVEK KUMAR VERMA** — sole designer & developer.
